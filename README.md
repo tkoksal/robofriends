@@ -1,3 +1,7 @@
+This project was created step by step while following Andrei Neagoie's Udemy course *The Complete Web Developer in 2019: Zero to Mastery*
+
+What follows below is a README document automatically generated with **Create React App**.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
